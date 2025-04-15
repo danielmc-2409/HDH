@@ -1,8 +1,5 @@
-export default () => {
-
-<>
-<h1> teste</h1>
-
-</>
-
-}; 
+export default () => (   
+ <>         
+     <h1>Vamos comer!</h1>   
+  </>  
+ );
