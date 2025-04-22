@@ -1,5 +1,6 @@
 export default () => (   
  <>         
-     <h1>Vamos comer!</h1>   
+     <h1>Pagina do Aluno</h1>
+     <p>Aluno</p>   
   </>  
  );
