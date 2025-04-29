@@ -1,6 +1,6 @@
 import db from './db';
 
-export async function getUsuarios(id) {
-        const result = await db.query('SELECT * FROM usuario WHERE id = $1', [id]);
+export async function getUsuarios() {
+        const result = await db.query('SELECT * FROM usuario');
         return result.rows;
 }

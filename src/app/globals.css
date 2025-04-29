@@ -40,3 +40,9 @@ a {
     color-scheme: dark;
   }
 }
+header{
+  text-align: center;
+background-color: blue;
+padding: 1rem;
+color: #d4af37;
+}
